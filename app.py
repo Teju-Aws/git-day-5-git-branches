@@ -6,7 +6,7 @@ init(autoreset=True)
 # define color variables
 
 green = Fore.GREEN
-blue  = Fore.BLUE
+
 yellow = Fore.YELLOW
 reset = Style.RESET_ALL
 
