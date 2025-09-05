@@ -4,7 +4,7 @@ from colorama import Fore, Style, init
 init(autoreset=True)
 
 # define color variables
-red   = Fore.RED
+
 green = Fore.GREEN
 blue  = Fore.BLUE
 yellow = Fore.YELLOW
